@@ -306,7 +306,7 @@ Callback = <function> - The function of the button.
 Tab:AddButton({
 	Name = "Change Back Baseplate",
 	Callback = function()
-        game.Workspace.Baseplate.Size = Vector3.new(389, 16, 389)
+        game.Workspace.Baseplate.Size = Vector3.new(403, 16, 389)
       		print("button pressed")
   	end    
 })
